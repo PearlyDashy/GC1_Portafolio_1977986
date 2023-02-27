@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Visual Studio Programas\Semestre 6\Gráficas Computacionales 1\OGL_Tangram\OGL_Tangram\Source.cpp(127,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  OGL_Tangram.vcxproj -> E:\Visual Studio Programas\Semestre 6\Gráficas Computacionales 1\OGL_Tangram\x64\Debug\OGL_Tangram.exe
